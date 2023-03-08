@@ -62,7 +62,7 @@ You should received :
 
 
 <p>
-  <img src="./public/server_response.png" height="80" alt="screenshot terminal's response to npm run start ">
+  <img src="./public/server_response.png" height="50" alt="screenshot terminal's response to npm run start ">
 </p>
 
 #### Create your tree DB
