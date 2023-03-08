@@ -1,8 +1,10 @@
 # Planty_Backend
 <p align="center">
-  <img src="./public/banner_planty.png" width="350" alt="banner planty backend api">
-  
+  <img src="./public/banner_planty.png" width="500" alt="banner planty backend api">
 </p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></p>
 ## ⛓️ Description 
 Rest-API for WebApp.This WebApp is an online IDLE Game, based in Liège.
 The purpose is to collect trees existing in the city and become the biggest owner on the map by buying and locking every trees available.
@@ -10,6 +12,10 @@ The player receives a wallet with leafs(the game money) at the beginning and thi
 
 ## 👩‍💻 Authors 
 This api has been made by : 
+<p align="center">
+    <img src="./public/author1.jpg" width="80" alt="Picture Danae">
+    <img src="./public/author2.jpg" width="80" alt="Picture Khadja">
+</p>
 - Danaé Grosjean | [LinkedIn](linkedin.com/in/danae-grosjean/) | [GitHub](https://github.com/Da-nae)
 - Khadja Paux | [LinkedIn](https://www.linkedin.com/in/khadja-paux/) | [GitHub](https://github.com/krabandicoot)
 
@@ -59,6 +65,10 @@ The command will delete every tree with a value less than 200 and erase every tr
 
 ## 🚧 Techs and NPM Modules 
 #### Techs : 
+<p align="center">
+    <img src="./public/nodejs_logo.png" width="100" alt="logo nodejs">
+    <img src="./public/mongodb_logo.png" width="100" alt="logo mongoDB">
+</p>
 **→** Node.js
 
 
