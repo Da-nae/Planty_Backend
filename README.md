@@ -7,17 +7,21 @@
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></p>
 
 ## Table of contents
-**[Installation Instructions](#installation-instructions)**<br>
-**[Description](#⛓️-description)**<br>
-**[Authors](#👩‍💻-authors)**<br>
-**[Usage](#⏳-usage)**<br>
-**[Tech and Modules used](#🚧-techs-and-npm-modules)**<br>
-**[API Routes](#🧲-api-routes)**<br>
+**[Description](#desc)**<br>
+**[Authors](#author)**<br>
+**[Usage](#usage)**<br>
+**[Tech and Modules used](#tech)**<br>
+**[Route explanation](#explain)**<br>
+**[API Routes](#route)**<br>
+
+<a name="desc"></a>
 
 ## ⛓️ Description 
 Rest-API for WebApp.This WebApp is an online IDLE Game, based in Liège.
 The purpose is to collect trees existing in the city and become the biggest owner on the map by buying and locking every trees available.
 The player receives a wallet with leafs(the game money) at the beginning and this wallet decreases and increase throughout the game. More explanation in the **[gamerules](#the-gamerules-for-planty)** .  
+
+<a name="author"></a>
 
 ## 👩‍💻 Authors 
 This api has been made by : 
@@ -28,6 +32,8 @@ This api has been made by :
 
 - Danaé Grosjean | [LinkedIn](linkedin.com/in/danae-grosjean/) | [GitHub](https://github.com/Da-nae)
 - Khadja Paux | [LinkedIn](https://www.linkedin.com/in/khadja-paux/) | [GitHub](https://github.com/krabandicoot)
+
+<a name="usage"></a>
 
 ## ⏳ Usage
 How to run the project : 
@@ -56,7 +62,7 @@ You should received :
 
 
 <p>
-  <img src="./public/server_response.png" alt="screenshot terminal's response to npm run start ">
+  <img src="./public/server_response.png" height="80" alt="screenshot terminal's response to npm run start ">
 </p>
 
 #### Create your tree DB
@@ -76,7 +82,9 @@ Run the command in your terminal :
 ```node deleteData.js```
 
 
-The command will delete every tree with a value less than 200 and erase every tree with a null value. 
+The command will delete every tree with a value less than 200 and erase every tree with a null value.
+
+<a name="tech"></a>
 
 ## 🚧 Techs and NPM Modules 
 #### Techs : 
@@ -103,6 +111,7 @@ The command will delete every tree with a value less than 200 and erase every tr
 - **project-name-generator** (Generate random name)
 - **validator** (Check the authentication fields)
 
+<a name="explain"></a>
 
 ## Understand the API routes
 ### The gamerules for Planty
@@ -135,6 +144,7 @@ HOWEVER a player can lock a tree, to make it unavailable to buy for others playe
 #### Profile ✔️
 The player can edit his description and private information and log out anytime he wants. 
 
+<a name="route"></a>
 
 ## 🧲 API Routes
 
