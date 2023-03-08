@@ -1,6 +1,6 @@
 # Planty_Backend
 <p align="center">
-  <img src="./public/banner_planty.png" width="500" alt="banner planty backend api">
+  <img src="./public/banner_planty.png" width="800" alt="banner planty backend api">
 </p>
 <p>
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
@@ -13,9 +13,10 @@ The player receives a wallet with leafs(the game money) at the beginning and thi
 ## 👩‍💻 Authors 
 This api has been made by : 
 <p align="center">
-    <img src="./public/author1.jpg" width="80" alt="Picture Danae">
-    <img src="./public/author2.jpg" width="80" alt="Picture Khadja">
+    <img style= src="./public/author1.jpg" width="80" style="border-radius:50%" alt="Picture Danae">
+    <img src="./public/author2.jpg" width="80"  style="border-radius:50%"alt="Picture Khadja">
 </p>
+
 - Danaé Grosjean | [LinkedIn](linkedin.com/in/danae-grosjean/) | [GitHub](https://github.com/Da-nae)
 - Khadja Paux | [LinkedIn](https://www.linkedin.com/in/khadja-paux/) | [GitHub](https://github.com/krabandicoot)
 
